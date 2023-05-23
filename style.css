@@ -1,0 +1,15 @@
+body {
+  background-color: gray;
+}
+
+p {
+  text-align: justify;
+}
+footer {
+  height: 30px;
+  margin-bottom: 0;
+  padding: 7px 0;
+}
+span {
+  font-weight: 600;
+}
